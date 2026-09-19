@@ -16,14 +16,19 @@ A full-stack, responsive web application designed for competitive exam aspirants
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-brightgreen.svg?logo=mongodb)](https://github.com/Sanjaykumars1722/Competitive-Exam-Tracker)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC.svg?logo=tailwind-css)](https://github.com/Sanjaykumars1722/Competitive-Exam-Tracker)
 
-#### 🚀 Key Highlights:
+#### 🚀 Quick Access Links:
+- 💻 **[Open App on PC / Laptop](http://localhost:5173/login)** *(Starts immediately with start-project.bat)*
+- 📱 **[Open on Mobile Phone](http://192.168.137.34:5173/login)** *(When on the same Wi-Fi)*
+- ⚡ **Instant Access**: Click **⚡ 1-Click Demo Login** to explore all pre-loaded exams and analytics!
+
+#### 🎯 Key Highlights:
 - ⏳ **Exam Management & Live Countdowns**: Multi-tier tracking down to the second with 1-click presets (JEE, UPSC, GATE).
 - 📚 **Micro-Topic Syllabus Mastery**: Hierarchical Subject ➔ Chapter ➔ Topic status tracking with spaced repetition revision alerts.
 - ⏱️ **Integrated Pomodoro Focus Timer**: Audio chime synthesizer with instant study session logging & daily streak flame counter 🔥.
 - 📈 **Mock Test Analytics**: Marks progression graphs, accuracy percentages, percentile ranking, and automated weak-area detection.
 - 📑 **Study Materials Hub**: Categorized directory of PYQs, handwritten mindmaps, video playlists, and formula sheets.
 
-👉 **[View Code & Live Architecture on GitHub →](https://github.com/Sanjaykumars1722/Competitive-Exam-Tracker)**
+👉 **[Explore Full Project Repository & Codebase →](https://github.com/Sanjaykumars1722/Competitive-Exam-Tracker)**
 
 ---
 
